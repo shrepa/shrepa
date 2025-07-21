@@ -6,7 +6,7 @@
 ---
 
 ## 🚀 Skills:
-- Microcontrollers: ATmega328P, STM32, ESP32
+- Microcontrollers: ATmega, STM32, ESP32
 - Languages: C, Embedded C, Python (basics)
 - Protocols: SPI, I2C, UART, MQTT
 - Tools: STM32CubeIDE, PlatformIO, Arduino IDE, VS Code
