@@ -1,32 +1,39 @@
 # 👋 Hi, I'm Shreya!
 
-🔧 **Embedded Systems & IoT Developer**  
-🎯 **Focused on microcontrollers, low-level coding, and real-world hardware projects.**
+🔧 Embedded Systems Developer | IoT Enthusiast  
+Building hardware systems with real-world applications in communication and environmental monitoring.
 
 ---
 
-## 🚀 Skills:
-- Microcontrollers: ATmega, STM32, ESP32
-- Languages: C, Embedded C, Python (basics)
-- Protocols: SPI, I2C, UART, MQTT
-- Tools: STM32CubeIDE, PlatformIO, Arduino IDE, VS Code
+## 📂 Featured Projects
+
+- **📡 SSDV Image Transmission System**  
+  ATmega328P-based system transmitting compressed images over radio links.  
+  [View Project](https://github.com/shrepa/ssdv_over_aprs)
+
+- **🌱 Soil Health Monitoring System**  
+  ESP32 + soil moisture sensor + DHT11 + weather API integration for smart irrigation recommendations.  
+  [View Project](https://github.com/shrepa/soil_moisture_alert)
+
+- **🛰️ Ongoing:** Voice and telemetry system for small satellite communication.
 
 ---
 
-## 📂 Projects:
-- **Soil Health Monitoring System** (ESP32, DHT11, Soil Sensor, Weather API)
-- **Voice & Telemetry Communication for Satellites** (ATmega328P + DRA Modules)
-- **SSDV Image Transmission Project** (JPEG Compression + Radio Packet Encoding)
-- **Remote Sensor Data Logger**
-
-> More projects on my [GitHub Repositories](https://github.com/shrepa?tab=repositories)
+## 🛠️ Skills
+- C, Embedded C, Python (basics)
+- Microcontrollers: ATmega328P, STM32, ESP32
+- Communication Protocols: UART, SPI, SSDV, Radio
+- IoT Technologies & Data Transmission
 
 ---
 
-## 📫 Contact Me:
+## 📫 Contact Me
 - LinkedIn: [Your LinkedIn Link](https://www.linkedin.com/in/shreya-patil-2a1321296/)
 - Email: shreyamptl25@gmail.com
 
 ---
 
-*Currently open for freelance and internship opportunities!*
+## 🔭 Future Goals
+I’m currently exploring the integration of **AI/ML with embedded systems**, focusing on lightweight models suitable for edge devices like microcontrollers and IoT boards.
+
+---
