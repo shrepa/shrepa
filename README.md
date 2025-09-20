@@ -28,7 +28,7 @@ Building hardware systems with real-world applications in communication and envi
 ---
 
 ## 📫 Contact Me
-- LinkedIn: [Your LinkedIn Link](https://www.linkedin.com/in/shreya-patil-2a1321296/)
+- LinkedIn: [Shreya Patil](https://www.linkedin.com/in/shreya-patil-2a1321296/)
 - Email: shreyamptl25@gmail.com
 
 ---
