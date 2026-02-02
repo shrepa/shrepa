@@ -1,11 +1,15 @@
 # 👋 Hi, I'm Shreya!
 
-🔧 Embedded Systems Developer | IoT Enthusiast  
-Building hardware systems with real-world applications in communication and environmental monitoring.
+🔧 Embedded Systems Developer exploring how AI can run on microcontrollers and edge devices.
+My work has evolved from IoT sensing systems to satellite communication firmware, and now toward running lightweight ML models on constrained hardware
 
 ---
 
-## 📂 Featured Projects
+# 📂 Featured Projects
+
+- **📡 CNN Inference on ESP32**  
+  A project exploring how a CNN model trained using GPU resources can be optimized and deployed for inference on an ESP32.
+  [View Project](https://github.com/shrepa/embedded-dl-inference-validation)
 
 - **📡 SSDV Image Transmission System**  
   ATmega328P-based system transmitting compressed images over radio links.  
@@ -15,11 +19,9 @@ Building hardware systems with real-world applications in communication and envi
   ESP32 + soil moisture sensor + DHT11 + weather API integration for smart irrigation recommendations.  
   [View Project](https://github.com/shrepa/soil_moisture_alert)
 
-- **🛰️ Ongoing:** Voice and telemetry system for small satellite communication.
-
 ---
 
-## 🛠️ Skills
+# 🛠️ Skills
 - C, Embedded C, Python (basics)
 - Microcontrollers: ATmega328P, STM32, ESP32
 - Communication Protocols: UART, SPI, SSDV, Radio
@@ -27,13 +29,13 @@ Building hardware systems with real-world applications in communication and envi
 
 ---
 
-## 📫 Contact Me
+# 📫 Contact Me
 - LinkedIn: [Shreya Patil](https://www.linkedin.com/in/shreya-patil-2a1321296/)
 - Email: shreyamptl25@gmail.com
 
 ---
 
-## 🔭 Future Goals
-I’m currently exploring the integration of **AI/ML with embedded systems**, focusing on lightweight models suitable for edge devices like microcontrollers and IoT boards.
+# 🔭 Future Goals
+My goal is to contribute to **reliable, intelligent systems for space and satellite applications**, bridging the gap between AI research and real-world constrained hardware.
 
 ---
