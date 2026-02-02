@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Shreya!
 
-🔧 Embedded Systems Developer exploring how AI can run on microcontrollers and edge devices. \\
+🔧 Embedded Systems Developer exploring how AI can run on microcontrollers and edge devices.
 My work has evolved from IoT sensing systems to satellite communication firmware, and now toward running lightweight ML models on constrained hardware
 
 
